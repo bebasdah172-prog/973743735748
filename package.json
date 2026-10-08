@@ -33,7 +33,7 @@
     "@monaco-editor/react": "^4.7.0",
     "@swc/helpers": "^0.5.15",
     "@next/env": "^16.1.6",
-    "@next/third-parties": "^16.2.9",
+    "@next/third-parties": "^16.3.8",
     "@xyflow/react": "^12.10.1",
     "bcryptjs": "^3.0.3",
     "confbox": "^0.2.4",
